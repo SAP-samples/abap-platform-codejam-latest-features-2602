@@ -1,0 +1,44 @@
+name: "🔴 Feature Problem Report"
+description: "Please choose a Label on the right sidebar and select the feature you would like to report a technical problem or malfunction on."
+title: "[Problem] "
+labels: ["bug"]
+assignees: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "🐞 Description"
+      description: "Describe the problem clearly and concisely."
+      placeholder: "What is not working as expected?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "🔁 Steps to Reproduce"
+      description: "How can the issue be reproduced?"
+      placeholder: |
+        1. Go to ...
+        2. Click on ...
+        3. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "✅ Expected Behavior"
+      description: "What did you expect to happen?"
+      placeholder: "The system should..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: "❌ Actual Behavior"
+      description: "What actually happened?"
+      placeholder: "Instead, the system..."
+    validations:
+      required: true
