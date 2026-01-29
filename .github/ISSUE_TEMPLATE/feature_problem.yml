@@ -1,6 +1,6 @@
 name: "🔴 Feature Problem Report"
 description: "Please choose a Label on the right sidebar and select the feature you would like to report a technical problem or malfunction on."
-title: "[Problem] "
+title: "[PROBLEM] "
 labels: ["bug"]
 assignees: []
 body:
