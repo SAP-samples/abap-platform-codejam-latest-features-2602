@@ -1,18 +1,4 @@
-# SAP-samples/repository-template
-This default template for SAP Samples repositories includes files for README, LICENSE, and REUSE.toml. All repositories on github.com/SAP-samples will be created based on this template.
-
-# Containing Files
-
-1. The LICENSE file:
-In most cases, the license for SAP sample projects is `Apache 2.0`.
-
-2. The REUSE.toml file: 
-The [Reuse Tool](https://reuse.software/) must be used for your samples project. You can find the REUSE.toml in the project initial. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository.
-
-3. The README.md file (this file):
-Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
-
-# [Title]
+# CodeJam 2602
 <!-- Please include descriptive title -->
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
@@ -22,12 +8,20 @@ Please edit this file as it is the primary description file for your project. Yo
 ## Description
 <!-- Please include SEO-friendly description -->
 
-## Requirements
+## Technical Setup for the Event
 
-## Download and Installation
+- A dedicated ABAP System ([Link to the Fiori Launchpad](https://811b8f03-fcbb-4aef-84ea-be223d95c35d.abap-web.eu10.hana.ondemand.com/ui#Shell-home)) in an SAP BTP ABAP environment is prepared for this event: Follow [this link](https://adt.only.sap/bridge.html#adt://AI5?sap-adt-project-type=abap-http&sap-adt-project-instance-url=https://811b8f03-fcbb-4aef-84ea-be223d95c35d.abap.eu10.hana.ondemand.com)  to create your ABAP Cloud Project in ADT
+- You have been assigned to a participant number, e.g. `042`
+- There are development packages for your number already present in the system
+- You can work within your respective development packages and you are strongly encouraged to create sub-packages for each feature you choose to try out
 
-## Known Issues
-<!-- You may simply state "No known issues. -->
+## Resources
+- This [CodeJam repository](./../../), especially the feature guides in the [Wiki](/../../wiki/)
+- The [Flight Reference Scenario on GitHub](https://github.com/SAP-samples/abap-platform-refscen-flight/tree/ABAP-platform-cloud) / [Flight Reference Scenario in the System](https://811b8f03-fcbb-4aef-84ea-be223d95c35d.abap-web.eu10.hana.ondemand.com:443/sap/bc/adt/packages/%2fdmo%2fflight?version=active&sap-client=100) in the package `/DMO/FLIGHT`
+- [Documentation for the ABAP RESTful Application Programming Model](https://help.sap.com/docs/abap-cloud/abap-rap/abap-restful-application-programming-model?ai=true&locale=en-US&version=LATEST) on the SAP Help Portal
+- [ABAP Cheat Sheets](https://github.com/SAP-samples/abap-cheat-sheets)
+- The latest ADT version can be found [here](https://tools.hana.ondemand.com/#abap), or with installation tutorial [here](https://developers.sap.com/tutorials/abap-install-adt.html)
+- The RAP Experts present at the event, get in touch! 
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
