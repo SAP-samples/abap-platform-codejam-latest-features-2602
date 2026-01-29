@@ -1,5 +1,11 @@
 name: "💬 Feature Feedback"
-description: "⚠️ **Please choose a Label on the right sidebar and select the feature you would like to give feedback on and add one of the following labels as category: bug, enhancement idea or question.**"
+description: |
+  ⚠️ **Important**
+  - Please choose a **Label on the right sidebar** to select the feature you would like to give feedback on.
+  - Additionally, add **one of the following labels as category**:
+    - `bug`
+    - `enhancement`
+    - `question`
 title: "[FEEDBACK] "
 labels: ["feedback", "ux"]
 assignees: []
