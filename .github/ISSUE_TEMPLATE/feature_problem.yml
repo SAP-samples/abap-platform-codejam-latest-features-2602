@@ -1,7 +1,7 @@
 name: "🔴 Issue Report"
 description: "❗Please choose a Label on the right sidebar and select the feature you would like to report a technical problem or malfunction on. Please also add one category label: bug, enhancement, or question."
-title: "[PROBLEM] "
-labels: ["bug"]
+title: "[ISSUE] "
+labels: []
 assignees: []
 body:
   - type: textarea
