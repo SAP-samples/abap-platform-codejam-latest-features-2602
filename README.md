@@ -46,11 +46,11 @@ Work on any presented feature, combine features across your RAP business objects
 We appreciate your feedback. Use any of the options below:
 - Provide general feedback for a feature  
 Let us know what you think about a feature you implemented:
-	- Go to [Issues](/../..issues) in this repository. Choose **New Issue**-->**Feature Feedback**.
+	- Go to [Issues](./../..issues) in this repository. Choose **New Issue**-->**Feature Feedback**.
 	- Select the feature label, complete the form with ratings and comments, and submit.
 - Report a problem (bug, enhancement idea, question)  
 Help us improve the feature by reporting problems you experience during development: 
-	- Go to [Issues](/../..issues) in this repository. Choose **New Issue**-->**Feature Problem Report**.
+	- Go to [Issues](./../..issues) in this repository. Choose **New Issue**-->**Feature Problem Report**.
 	- Select the feature label and an additional problem category ( `bug`, `enhancement idea`, `question` )
 	- Describe your findings and submit.
 - Talk to the experts. 
