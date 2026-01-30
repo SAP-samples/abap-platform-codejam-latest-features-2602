@@ -1,5 +1,5 @@
-name: "🔴 Feature Problem Report"
-description: "Please choose a Label on the right sidebar and select the feature you would like to report a technical problem or malfunction on."
+name: "🔴 Issue Report"
+description: "❗Please choose a Label on the right sidebar and select the feature you would like to report a technical problem or malfunction on. Please also add one category label: bug, enhancement, or question."
 title: "[PROBLEM] "
 labels: ["bug"]
 assignees: []
@@ -11,7 +11,7 @@ body:
       description: "Describe the problem clearly and concisely."
       placeholder: "What is not working as expected?"
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: steps
@@ -23,7 +23,7 @@ body:
         2. Click on ...
         3. See error
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: expected
@@ -32,7 +32,7 @@ body:
       description: "What did you expect to happen?"
       placeholder: "The system should..."
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: actual
@@ -41,4 +41,4 @@ body:
       description: "What actually happened?"
       placeholder: "Instead, the system..."
     validations:
-      required: true
+      required: false
