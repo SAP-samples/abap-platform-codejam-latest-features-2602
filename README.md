@@ -11,7 +11,7 @@ In this special edition you’ll get exclusive, applied exposure to features del
 	- Draft Scope (2508)
 	 - Recommendations (2602) 
 	- Editable Treeview (2502) 
-	- Analytical Table (Read-Only) (?)
+	- Analytical Table (Read-Only) (2511)
 - Make use of various feedback options
   
 ## Agenda and Format
