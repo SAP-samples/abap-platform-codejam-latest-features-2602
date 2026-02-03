@@ -1,5 +1,5 @@
 name: "🔴 Issue Report"
-description: "❗Please choose a Label on the right sidebar and select the feature you would like to report a technical problem or malfunction on. Please also add one category label: bug, enhancement, or question."
+description: "❗Please choose a Label on the right sidebar and select the feature you would like to report a technical problem or malfunction on. Please also add one category label: bug, documentation,  enhancement, or question."
 title: "[ISSUE] "
 labels: []
 assignees: []
@@ -9,7 +9,7 @@ body:
     attributes:
       label: "🐞 Description"
       description: "Describe the problem clearly and concisely."
-      placeholder: "What is not working as expected?"
+      placeholder: "What is not working as expected? / What is not documented as expected? "
     validations:
       required: false
 
@@ -17,7 +17,7 @@ body:
     id: steps
     attributes:
       label: "🔁 Steps to Reproduce"
-      description: "How can the issue be reproduced?"
+      description: "How can the issue be reproduced?/ Where exactly did you find an issue with the documentation? "
       placeholder: |
         1. Go to ...
         2. Click on ...
@@ -30,7 +30,7 @@ body:
     attributes:
       label: "✅ Expected Behavior"
       description: "What did you expect to happen?"
-      placeholder: "The system should..."
+      placeholder: "The system should... / The documentation should "
     validations:
       required: false
 
