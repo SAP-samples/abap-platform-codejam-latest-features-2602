@@ -1,5 +1,5 @@
 name: "🔴 Issue Report"
-description: "❗Choose a label on the right sidebar and select the feature you would like to report a technical problem or malfunction on. Please also add a category label: bug, documentation,  enhancement, or question."
+description: "❗Choose a label on the right sidebar and select the feature you want to report a technical problem or malfunction on. Please also add a category label: bug, documentation,  enhancement, or question."
 title: "[ISSUE] "
 labels: []
 assignees: []
