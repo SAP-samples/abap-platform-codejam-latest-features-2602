@@ -21,7 +21,7 @@ body:
       placeholder: |
         1. Go to ...
         2. Click on ...
-        3. See error
+        3. See error / See line "... "
     validations:
       required: false
 
@@ -30,7 +30,7 @@ body:
     attributes:
       label: "✅ Expected Behavior"
       description: "What did you expect to happen?"
-      placeholder: "The system should... / The documentation should "
+      placeholder: "The system should... / The documentation should ... "
     validations:
       required: false
 
