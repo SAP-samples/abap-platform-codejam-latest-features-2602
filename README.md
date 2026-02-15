@@ -33,8 +33,8 @@ Work on any presented feature, combine features across your RAP business objects
 ## Technical Setup
 - A dedicated ABAP System in an SAP BTP ABAP environment (2602) is prepared for this event. Access the Fiori Launchpad here: [AI5 Fiori Launchpad](https://811b8f03-fcbb-4aef-84ea-be223d95c35d.abap-web.eu10.hana.ondemand.com/ui#Shell-home). Follow [this link](https://adt.only.sap/bridge.html#adt://AI5?sap-adt-project-type=abap-http&sap-adt-project-instance-url=https://811b8f03-fcbb-4aef-84ea-be223d95c35d.abap.eu10.hana.ondemand.com)  to create your ABAP Cloud Project in ADT
 - To logon to the service instance, use your assigned username and password. 
-- You have been assigned a participant number (for example `###=042`) and corresponding development packages `ZDEVELOPER_###` are already available in the system.
-- Please work inside your assigned package(s); creating sub‑packages per feature is recommended for organization.
+- You have been assigned a participant number (for example ###=042) and corresponding development packages ZDEVELOPER_### are already available in the system.
+- Please work inside your assigned packages. There is one subpackage for every feature available.
 
 ## Resources
 - This [CodeJam repository](./../../), especially the feature guides in the [Wiki](/../../wiki/)
