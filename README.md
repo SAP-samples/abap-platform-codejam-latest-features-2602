@@ -1,5 +1,7 @@
 # SAP CodeJam: ABAP Cloud & ABAP RESTful Application Programming Model (RAP) - SPECIAL EDITION
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-platform-codejam-latest-features-2602)](https://api.reuse.software/info/github.com/SAP-samples/abap-platform-codejam-latest-features-2602)   
+
 Welcome to a hands-on workshop that deepens your practical skills of ABAP Cloud and the ABAP RESTful Application Programming Model (RAP). 
 In this special edition you’ll get exclusive, applied exposure to features delivered in cloud releases 2502–2602 through short demos, guided feature implementation, and expert support.
 
