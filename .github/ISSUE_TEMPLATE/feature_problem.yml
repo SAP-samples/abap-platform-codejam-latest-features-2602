@@ -42,9 +42,4 @@ body:
       placeholder: "Instead, the system..."
     validations:
       required: false
- - type: markdown
-   id: label
-    attributes:
-      value: "Please add the respective label for the feature and the issue type."
-    validations: 
-      reuired: false
+
