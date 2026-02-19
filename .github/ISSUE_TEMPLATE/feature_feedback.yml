@@ -51,5 +51,4 @@ body:
       placeholder: "Your answer here"
  - type: markdown
     attributes:
-      value: |
-        Please add the respective label for the feature. 
+      value: "Please add the respective label for the feature. "
