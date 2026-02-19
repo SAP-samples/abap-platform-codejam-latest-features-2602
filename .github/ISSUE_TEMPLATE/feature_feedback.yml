@@ -50,5 +50,6 @@ body:
       description: "Any other thoughts, edge cases, or ideas you want to share."
       placeholder: "Your answer here"
  - type: markdown
+   id: label
     attributes:
       value: "Please add the respective label for the feature. "
