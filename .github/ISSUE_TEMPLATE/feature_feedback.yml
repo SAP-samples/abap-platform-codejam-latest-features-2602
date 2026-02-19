@@ -1,6 +1,6 @@
 name: "💬 Feature Feedback"
-description: "❗Important! Please select a feature via a Label on the right sidebar."
-title: "[FEEDBACK] "
+description: "❗Important! Please select a feature via a label."
+title: "FEEDBACK for [AddFeatureHere] "
 labels: ["feedback", "ux"]
 assignees: []
 body:
@@ -49,3 +49,7 @@ body:
       label: "💭 Additional Feedback"
       description: "Any other thoughts, edge cases, or ideas you want to share."
       placeholder: "Your answer here"
+        - type: markdown
+    attributes:
+      value: |
+        Please add the respective label for the feature. 
