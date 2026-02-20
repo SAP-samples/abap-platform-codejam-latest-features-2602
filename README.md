@@ -46,6 +46,7 @@ Work on any presented feature, combine features across your RAP business objects
 - [RAP Documentation](https://help.sap.com/docs/abap-cloud/abap-rap/abap-restful-application-programming-model?ai=true&locale=en-US&version=LATEST) on the SAP Help Portal
 - [RAP on SAP Community](https://pages.community.sap.com/topics/abap/rap)
 - [ABAP Cheat Sheets](https://github.com/SAP-samples/abap-cheat-sheets)
+- [abapGit](https://github.com/abapGit/ADT_Frontend?tab=readme-ov-file#download-and-installation) to clone and save your creations, independent from the system used in the event
 - The RAP Experts present at the event - get in touch!
 
 ### RAP Outlook
