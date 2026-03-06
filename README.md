@@ -11,11 +11,11 @@ In this special edition you’ll get exclusive, applied exposure to features del
 	- [OData UI Service from Scratch](/../../wiki/OData-UI-Service-from-Scratch-Generator) (2502)
  	- [Documentation Chat](/../../wiki/Documentation-Chat) (2511)
 - Be guided through the implementation of the latest RAP features:
-	- [Collaborative Draft](/../../wiki/Collaborative-Draft) (2508)
-	- [Draft Scope](/../../wiki/Draft-Scope) (2508)
-	 - [Recommendations](/../../wiki/Recommendations)  (2602) 
-	- [Editable Treeview](/../../wiki/Editable-Treeview) (2502) 
-	- [Analytical Table (Read-Only)](/../../wiki/Analytical-Table) (2511)
+	- [Collaborative Draft](/../../wiki/Collaborative-Draft) (2508) - Development Effort: S
+	- [Draft Scope](/../../wiki/Draft-Scope) (2508) - Development Effort: M
+	 - [Recommendations](/../../wiki/Recommendations) (2602) - Development Effort: L
+	- [Editable Treeview](/../../wiki/Editable-Treeview) (2502) - Development Effort: L
+	- [Analytical Table (Read-Only)](/../../wiki/Analytical-Table) (2511) - Development Effort: M
 - Make use of various feedback options
   
 ## Agenda and Format
