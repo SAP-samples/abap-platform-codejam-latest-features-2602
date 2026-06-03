@@ -67,8 +67,8 @@ Help us improve the feature by reporting problems you experience during developm
 You will be asked to participate in a small survey when the event is concluded to give feedback regarding the CodeJam itself
 - Talk to the experts. 
 
-
 ## License
 Copyright (c) 2026 SAP SE or an SAP affiliate company and abap-platform-codejam-latest-features-2602 contributors. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file; you may not use any file of this project except in compliance with the License.
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the LICENSE for the specific language governing permissions and limitations under the License.
+
